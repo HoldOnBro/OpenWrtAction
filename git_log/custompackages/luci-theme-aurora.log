@@ -1,0 +1,11 @@
+<details> <summary> <b>luci-theme-aurora new commit log :rocket: </b> </summary>
+
+#### [:mega: Full Changelog. ](https://github.com/eamonxg/luci-theme-aurora/compare/2b51a019c6fd9702f741fd9081f911e6cb30cbac...08bdeddbc1bb0ab54896d4a601a447ee99057c3f)  
+:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
+
+SHA|Author|Date|Message
+-|-|-|-
+08bdedd|Eamon|Sat May 30 21:50:54 2026 +0800|refactor: remove dead login component styles from main.css
+a77b969|Eamon|Sat May 30 21:46:49 2026 +0800|feat: login divider fade-in animation with gradient (v0.11.10)
+b306eec|Eamon|Sat May 30 21:16:51 2026 +0800|feat: login LQIP background + INP compositor fix (v0.12.0)
+</details>
